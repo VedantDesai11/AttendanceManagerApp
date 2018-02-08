@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784677589381",
+    "firebase_url": "https://attendance-manager-b616a.firebaseio.com",
+    "project_id": "attendance-manager-b616a",
+    "storage_bucket": "attendance-manager-b616a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784677589381:android:d084b522a8f78848",
+        "android_client_info": {
+          "package_name": "com.example.vdntd.attendancemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784677589381-gd6634o0roe934u85c7rssfcpdndcqi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrCOYDna1P9054-DIW8rSoLRtRqJsBPpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
